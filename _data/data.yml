@@ -159,10 +159,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: **Boyang Zhang**, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang
+        conference: ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
