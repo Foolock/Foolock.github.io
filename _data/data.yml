@@ -79,10 +79,11 @@ experiences:
           Helped organize the course: ECE 14:332:231 Digital Logic Design. 
             - Designed the lab materials and policies.
             - Designed the final project (A simple RISC-V architecture written in SystemVerilog).
-      - role: Research Assistant
+      - role: Teaching Assistant & Research Assistant
         time: 2021.6 - 2022.6
         company: Rutgers University
         details: |
+            - Designed lab materials for ECE 14:332:231 Digital Logic Design.
             - Implemented R-tree motion planning algorithm for 2-D space searching in MATLAB.
             - Implemented a simple five-layer CNN inference phrase based on the systolic array architecture on a PYNQ-Z1 FPGA board. 
               Data is pre-trained in PC with PyTorch and loaded into DRAM through UART.
