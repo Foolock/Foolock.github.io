@@ -164,15 +164,20 @@ publications:
         authors: Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang
         conference: ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu
+        conference: ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, 2024
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Global Placement Exploiting Soft 2D Regularity
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Donghao Fang, Boyang Zhang, Hailiang Hu, Wuxi Li, Bo Yuan, Jiang Hu
+        conference: ACM International Symposium on Physical Design (ISPD), New York, NY, USA, 2022
+
+      - title: VLSI Hardware Architecture of Neural A* Path Planner
+        link: "#"
+        authors: Lingyi Huang, Xiao Zang, Yu Gong, Boyang Zhang, and Bo Yuan
+        conference: IEEE Asilomar Conference on Signals, Systems, and Computers, CA, USA, 2022
 
 skills:
     title: Skills &amp; Proficiency
