@@ -71,17 +71,17 @@ publications:
         conference: ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 
       - title: Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System
-        link: "https://tsung-wei-huang.github.io/papers/ispd24.pdf"
+        link: "#"
         authors: Tsung-Wei Huang, **Boyang Zhang**, Dian-Lun Lin, and Cheng-Hsiang Chiu
         conference: ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, 2024
 
       - title: Global Placement Exploiting Soft 2D Regularity
-        link: "https://dl.acm.org/doi/abs/10.1145/3505170.3506723"
+        link: "#"
         authors: Donghao Fang, **Boyang Zhang**, Hailiang Hu, Wuxi Li, Bo Yuan, Jiang Hu
         conference: ACM International Symposium on Physical Design (ISPD), New York, NY, USA, 2022
 
       - title: VLSI Hardware Architecture of Neural A* Path Planner
-        link: "https://ieeexplore.ieee.org/document/10052028"
+        link: "#"
         authors: Lingyi Huang, Xiao Zang, Yu Gong, **Boyang Zhang**, and Bo Yuan
         conference: IEEE Asilomar Conference on Signals, Systems, and Computers, CA, USA, 2022
 
