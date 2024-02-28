@@ -44,7 +44,7 @@ career-profile:
     summary: |
       I am a second-year Ph.D. student at the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison, 
       advised by Prof. Tsung-Wei(TW) Huang.
-      My research has focused on Graph Partition, Parallel Computing, and Design Automation. 
+      My research has focused on Task Graph Partition, Parallel Computing, and Design Automation. 
       With the amazing support from our research group and collaborators, I have published papers at three top-tier conferences: DAC, ICCAD, and ISPD.
       I love driving manuals during my free time. Yes, save the manual!
 education:
@@ -90,39 +90,20 @@ experiences:
         time: 2023.9 - Present
         company: University of Wisconsin-Madison
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Designed PASTA, a task graph partitioning algorithm, and implemented it in parallel CPU version (C-PASTA in ISPD'2024) and GPU version (G-PASTA in DAC'2024). 
+          They both bring significant speedup to the update timing process in OpenTimer.
+      - role: Research Assistant
+        time: 2023.1 - 2023.8
+        company: University of Utah
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Worked on implementing various task graph partitioners (Repcut, Vivek's, GDCA) to speed up the update timing process in OpenTimer.
+      - role: Teaching assistant
+        time: 2022.9 - 2022.12
+        company: Rutgers University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Helped organize the course: ECE 14:332:231 Digital Logic Design
+            - Designed the lab materials and policies.
+            - Designed the final project.
 
 projects:
     title: Projects
