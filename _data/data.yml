@@ -86,9 +86,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant
+        time: 2023.9 - Present
+        company: University of Wisconsin-Madison
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -158,7 +158,7 @@ publications:
     papers:
       - title: "G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis"
         link: "#"
-        authors: "**Boyang Zhang**", Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang
+        authors: Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang
         conference: ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 
       - title: "Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System"
