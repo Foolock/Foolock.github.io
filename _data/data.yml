@@ -159,7 +159,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis
+      - title: "G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis"
         link: "#"
         authors: **Boyang Zhang**, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang
         conference: ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
