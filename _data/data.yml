@@ -62,7 +62,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Reseach Assistant 
         time: 2015 - Present
         company: Startup Hubs, San Francisco
         details: |
@@ -136,20 +136,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang
+        conference: ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System
+        link: "https://tsung-wei-huang.github.io/papers/ispd24.pdf"
+        authors: Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu
+        conference: ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, 2024
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Global Placement Exploiting Soft 2D Regularity
+        link: "https://dl.acm.org/doi/abs/10.1145/3505170.3506723"
+        authors: Donghao Fang, Boyang Zhang, Hailiang Hu, Wuxi Li, Bo Yuan, Jiang Hu
+        conference: ACM International Symposium on Physical Design (ISPD), New York, NY, USA, 2022
 
 skills:
     title: Skills &amp; Proficiency
