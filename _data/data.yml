@@ -154,7 +154,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro: Conference Papers
     papers:
       - title: "G-PASTA: GPU-Accelerated Partitioning Algorithm for Static Timing Analysis"
         link: "#"
@@ -166,15 +166,20 @@ publications:
         authors: Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu
         conference: ACM International Symposium on Physical Design (ISPD), Taipei, Taiwan, 2024
 
-      - title: Global Placement Exploiting Soft 2D Regularity
-        link: "#"
+      - title: "Global Placement Exploiting Soft 2D Regularity"
+        link: "https://dl.acm.org/doi/10.1145/3505170.3506723"
         authors: Donghao Fang, Boyang Zhang, Hailiang Hu, Wuxi Li, Bo Yuan, Jiang Hu
         conference: ACM International Symposium on Physical Design (ISPD), New York, NY, USA, 2022
 
-      - title: VLSI Hardware Architecture of Neural A* Path Planner
-        link: "#"
+      - title: "VLSI Hardware Architecture of Neural A* Path Planner"
+        link: "https://ieeexplore.ieee.org/document/10052028"
         authors: Lingyi Huang, Xiao Zang, Yu Gong, Boyang Zhang, and Bo Yuan
         conference: IEEE Asilomar Conference on Signals, Systems, and Computers, CA, USA, 2022
+
+      - title: "Algorithm and Hardware Co-design for Deep Learning-powered Channel Decoder: A Case Study"
+        link: "https://ieeexplore.ieee.org/document/9643510"
+        authors: Boyang Zhang, Yang Sui, Lingyi Huang, Siyu Liao, Chunhua Deng, Bo Yuan
+        conference: IEEE/ACM International Conference On Computer Aided Design (ICCAD), Munich, Germany, 2021
 
 skills:
     title: Skills &amp; Proficiency
