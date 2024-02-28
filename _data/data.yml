@@ -90,20 +90,31 @@ experiences:
         time: 2023.9 - Present
         company: University of Wisconsin-Madison
         details: |
-          Designed PASTA, a task graph partitioning algorithm, and implemented it in parallel CPU version (C-PASTA in ISPD'2024) and GPU version (G-PASTA in DAC'2024). 
+          Designed PASTA, a task graph partitioning algorithm for static timing analysis, and implemented it in parallel CPU version (C-PASTA in ISPD'2024) and GPU version (G-PASTA in DAC'2024). 
           They both bring significant speedup to the update timing process in OpenTimer.
       - role: Research Assistant
         time: 2023.1 - 2023.8
         company: University of Utah
         details: |
           Worked on implementing various task graph partitioners (Repcut, Vivek's, GDCA) to speed up the update timing process in OpenTimer.
-      - role: Teaching assistant
+      - role: Teaching Assistant
         time: 2022.9 - 2022.12
         company: Rutgers University
         details: |
-          Helped organize the course: ECE 14:332:231 Digital Logic Design
+          Helped organize the course: ECE 14:332:231 Digital Logic Design. 
             - Designed the lab materials and policies.
-            - Designed the final project.
+            - Designed the final project (A simple RISC-V architecture written in SystemVerilog).
+      - role: Master Student & Research Assistant
+        time: 2021.6 - 2022.6
+        company: Rutgers University
+        details: |
+            - Implemented R-tree motion planning algorithm for 2-D space searching in MATLAB.
+            - Implemented a simple five-layer CNN inference phrase based on the systolic array architecture on a PYNQ-Z1 FPGA board. 
+              Data is pre-trained in PC with PyTorch and loaded into DRAM through UART.
+              The CNN computation part is implemented in Verilog on the FPGA part of the board. Data transfer is controlled by the SoC ZYNQ processor programmed in C. 
+            - Implemented a parser in Java with RapidWright library to parse the placement information in Xilinx's Vivado Design Tools. The output of the parser, 
+              which contains the placement information from Vivado, can be used as input to academic placers to improve the placement results from Vivado. The improved placement results from the academic placers can then be inputted back 
+              to Vivado to finish the later routing process.
 
 projects:
     title: Projects
