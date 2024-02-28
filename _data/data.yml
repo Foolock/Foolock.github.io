@@ -96,7 +96,7 @@ experiences:
         time: 2023.1 - 2023.8
         company: University of Utah
         details: |
-          Worked on implementing various task graph partitioners (Repcut, Vivek's, GDCA) to speed up the update timing process in OpenTimer.
+          Implemented various task graph partitioners (Repcut, Vivek's, GDCA) to speed up the update timing process in OpenTimer.
       - role: Teaching Assistant
         time: 2022.9 - 2022.12
         company: Rutgers University
@@ -120,13 +120,13 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: G-PASTA
-        link: "#"
-        tagline: "GPU Accelerated Partitioning Algorithm for Static Timing Analysis"
-
       - title: C-PASTA
         link: "#"
         tagline: "Parallel CPU Partitioning Algorithm for Static Timing Analysis"
+        
+      - title: G-PASTA
+        link: "#"
+        tagline: "GPU Accelerated Partitioning Algorithm for Static Timing Analysis"
         
 
 publications:
