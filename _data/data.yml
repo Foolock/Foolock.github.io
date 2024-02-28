@@ -40,14 +40,11 @@ sidebar:
           level: Native
 
 career-profile:
-    title: Career Profile
+    title: ABOUT ME
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a second-year Ph.D. student at the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison, 
+      advised by Prof. Tsung-Wei(TW) Huang.
+      My research has focused on Graph Partition, Parallel Computing, and Design Automation.
 education:
     title: Education
     info:
