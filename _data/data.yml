@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Boyang Zhang
     tagline: PhD Student @ UW-Madison
-    avatar: output-onlinepngtools.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: selfie_small.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: bzhang523@wisc.edu
@@ -18,9 +18,9 @@ sidebar:
     timezone: North America Central Time
     #citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin: www.linkedin.com/in/boyangzhangb49820190/
+    xing: 
+    github: github.com/Foolock
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
